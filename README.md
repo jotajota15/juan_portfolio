@@ -2,7 +2,7 @@
 ## Accountant and Computer Scientist (Magna Cum Laude)
 
 
-<img src="images/About/me_photo.svg" alt="drawing" width="200px"/>
+<img src="images/About/me_photo.svg" center = "True" width="200px"/>
 
 
 # Introduction
@@ -14,7 +14,31 @@ I have decided to showcase this portfolio using an interest-based index so that 
 
 # Index 
 
+1. [Machine Learning Projects](#machine-learning-projects)
 
+2. [NOSQL and Data Projects](#nosql-and-data-projects)
+
+3. [Cloud Projects](#cloud-projects)
+
+4. [Data Manipulation Projects](#data-manipulation-projects)
+
+5. [Math and Statistic Projects](#math-and-statistic-projects)
+
+6. [Other IT Projects](#other-it-projects)
+
+
+
+# Machine Learning Projects
+
+# NOSQL and Data Projects
+
+# Cloud Projects 
+
+# Data Manipulation Projects
+
+# Math and Statistic Projects
+
+# Other IT Projects
 
 
 I beg your pardon if you see the most of them are written with spanish comments
